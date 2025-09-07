@@ -1,2 +1,2 @@
 # HLFF
-Ngspice implementation of a Hybrid Latch Flip-Flop (HLFF) with testbench and simulation results. Includes setup time, clock-to-Q delay, and energy vs. delay analysis, showing the advantages of combining latch and flip-flop features for high-speed, low-power VLSI design.
+Ngspice implementation of a Hybrid Latch Flip-Flop (HLFF). The project includes circuit netlist and analyzed results such as setup time, clock-to-Q delay, and energy vs. delay trade-off, highlighting the performance benefits of HLFF for high-speed, low-power VLSI design.
